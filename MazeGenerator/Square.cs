@@ -42,55 +42,11 @@ namespace MazeGenerator
             return this.isWall;
         }
 
-        public Boolean player()
-        {
-            return isPlayer;
-        }
-
         public void openWall()
         {
             isWall = false;
         }
 
-        public Boolean isFinish()
-        {
-            return finished;
-        }
-
-        public void setFinished()
-        {
-            this.finished = true;
-        }
-
-        public Boolean isTreasure()
-        {
-            return treasure;
-        }
-
-        public void setTreasure()
-        {
-            this.treasure = true;
-        }
-
-        public Boolean isVisited()
-        {
-            return alreadyVisited;
-        }
-
-        public void visited()
-        {
-            this.alreadyVisited = true;
-        }
-
-        public void notVisited()
-        {
-            this.alreadyVisited = true;
-        }
-
-        public void setIsPlayer()
-        {
-            this.isPlayer = true;
-        }
 
         public String getStringRep()
         {
