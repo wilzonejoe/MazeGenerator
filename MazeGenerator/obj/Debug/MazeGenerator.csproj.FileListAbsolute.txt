@@ -1,0 +1,6 @@
+C:\Users\wilzo\Documents\GitHub\MazeGenerator\MazeGenerator\bin\Debug\MazeGenerator.exe.config
+C:\Users\wilzo\Documents\GitHub\MazeGenerator\MazeGenerator\bin\Debug\MazeGenerator.exe
+C:\Users\wilzo\Documents\GitHub\MazeGenerator\MazeGenerator\bin\Debug\MazeGenerator.pdb
+C:\Users\wilzo\Documents\GitHub\MazeGenerator\MazeGenerator\obj\Debug\MazeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\wilzo\Documents\GitHub\MazeGenerator\MazeGenerator\obj\Debug\MazeGenerator.exe
+C:\Users\wilzo\Documents\GitHub\MazeGenerator\MazeGenerator\obj\Debug\MazeGenerator.pdb
