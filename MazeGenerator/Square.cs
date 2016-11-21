@@ -8,21 +8,13 @@ namespace MazeGenerator
 {
    public class Square
     {
-        private Boolean isPlayer;
         private Boolean isWall;
-        private Boolean treasure;
-        private Boolean alreadyVisited;
-        private Boolean finished;
         private int x;
         private int y;
 
         public Square(int x, int y)
         {
             isWall = true;
-            treasure = false;
-            alreadyVisited = false;
-            isPlayer = false;
-            finished = false;
             this.x = x;
             this.y = y;
         }

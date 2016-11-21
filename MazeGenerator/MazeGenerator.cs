@@ -175,6 +175,10 @@ namespace MazeGenerator
                 {
                     Console.WriteLine("====================================");
                     Console.WriteLine("Please enter ODD NUMBER!");
+                }else if(num < 3)
+                {
+                    Console.WriteLine("====================================");
+                    Console.WriteLine("Enter a number at least 3 or above!");
                 }
                 Console.WriteLine("====================================");
             } while (evenNum);
